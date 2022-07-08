@@ -1,0 +1,10 @@
+_Seleccionar textos.
+_Corregir textos.
+_Hacer primera impresión.
+_Armar maqueta.
+_Hacer repositorio de Github.
+
+
+Textos a corregir:
+
+_Introducción.
